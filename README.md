@@ -7,7 +7,7 @@ Software Engineering Student & Junior WebDeveloper
 I began my coding experience as a naive computer science student eager to learn everything I could about the programming world, including code, unix, linux, and theory. And all the while, teaching myself web development.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [StillWorkingOnIT]([http://mmmoataz.github.io/resume/](https://mmmoataz.github.io/portfolio/))
+* 🖥️  See my portfolio at [StillWorkingOnIT](https://mmmoataz.github.io/portfolio/)
 * ✉️  You can contact me at [mohamedmoatazshatta@gmail.com](mailto:mohamedmoatazshatta@gmail.com)
 * 🧠  I'm learning JavaScript, ReactJS, NodeJS, PostgreSQL, Web3DApp
 
