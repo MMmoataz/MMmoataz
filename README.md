@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student & Junior WebDeveloper
 --------------------------------------------------
 
-I began my coding experience as a naive computer science student eager to learn everything I could about the programming world, including code, unix, linux, and theory. And all the while, teaching myself web development.
+I started out as a curious computer science student, super eager to dive into everything related to programming—whether it was coding, Unix, Linux, or all the theory behind it. Along the way, I also taught myself web development.
 
 * 🖥️  See my portfolio at [StillWorkingOnIT](https://mmmoataz.github.io/portfolio/)
 * ✉️  You can contact me at [mohamedmoatazshatta@gmail.com](mailto:mohamedmoatazshatta@gmail.com)
