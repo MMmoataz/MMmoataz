@@ -6,7 +6,7 @@ I started out as a curious computer science student, super eager to dive into ev
 
 * 🖥️  See my portfolio at [StillWorkingOnIT](https://mmmoataz.github.io/portfolio/)
 * ✉️  You can contact me at [mohamedmoatazshatta@gmail.com](mailto:mohamedmoatazshatta@gmail.com)
-* 🧠  I'm learning JavaScript, ReactJS, NodeJS, PostgreSQL, Web3DApp
+* 🧠  I'm Currently learning JavaScript, ReactJS, NodeJS, PostgreSQL, Web3DApp
 
 ### Skills
 
