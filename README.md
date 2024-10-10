@@ -2,7 +2,8 @@
 Software Engineering Student & Junior WebDeveloper
 --------------------------------------------------
 
-I started out as a curious computer science student, super eager to dive into everything related to programming—whether it was coding, Unix, Linux, or all the theory behind it. Along the way, I also taught myself web development.
+I'm a quirky thinker, sometimes inspired, always passionate, and definitely a flawed human being. 
+I've loved computers since I was young, and my fascination with understanding how things work has only grown.
 
 * 🖥️  See my portfolio at [StillWorkingOnIT](https://mmmoataz.github.io/portfolio/)
 * ✉️  You can contact me at [mohamedmoatazshatta@gmail.com](mailto:mohamedmoatazshatta@gmail.com)
