@@ -3,7 +3,6 @@ I've loved computers since I was young, and my fascination with understanding ho
 
 * 🖥️  See my portfolio at [StillWorkingOnIT](https://mmmoataz.github.io/portfolio/)
 * ✉️  You can contact me at [mohamedmoatazshatta@gmail.com](mailto:mohamedmoatazshatta@gmail.com)
-* 🧠  I'm Currently learning JavaScript, ReactJS, NodeJS, PostgreSQL, Web3DApp
 
 ### Skills
 
